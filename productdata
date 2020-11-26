@@ -1,0 +1,16 @@
+{"index":{"_index":"bakeryproducts","_id":"1"}}
+{"name":"strawberry shortcake","ingredients":["flour","butter","sugar","cream","milk","strawberry","eggs","salt","vanilla"],"allgens":"true","vegan":"false"}
+{"index":{"_index":"bakeryproducts","_id":"2"}}
+{"name":"strawberry cake","ingredients":["flour","butter","sugar","cream","milk","strawberry","eggs","salt","vanilla"],"allgens":"true","vegan":"false"}
+{"index":{"_index":"bakeryproducts","_id":"3"}}
+{"name":"chocolatechip cookies","ingredients":["flour","butter","sugar","milk chocolate","pecans","eggs","salt","vanilla"],"allgens":"true","vegan":"false"}
+{"index":{"_index":"bakeryproducts","_id":"4"}}
+{"name":"chocolate birthday cake","ingredients":["flour","butter","sugar","milk","milk chocolate","eggs","salt","vanilla"],"allgens":"true","vegan":"false"}
+{"index":{"_index":"bakeryproducts","_id":"5"}}
+{"name":"pavlova","ingredients":["egg whites","sugar","cream","strawberry","blackberry","cherry"],"allgens":"true","vegan":"false"}
+{"index":{"_index":"bakeryproducts","_id":"6"}}
+{"name":"matcha nama chocolate","ingredients":["white chocolate","cream","matcha"],"allgens":"true","vegan":"false"}
+{"index":{"_index":"bakeryproducts","_id":"7"}}
+{"name":"blueberry cheesecake","ingredients":["cheesecake","sour cream","sugar","eggs","flour","blueberry","lemon zest","vanilla"],"allgens":"true","vegan":"false"}
+{"index":{"_index":"bakeryproducts","_id":"8"}}
+{"name":"cheese souffle","ingredients":["parmesan cheese","butter","flour","milk","sugar","eggs","white pepper","salt","Gruyère cheese"],"allgens":"true","vegan":"false"}
